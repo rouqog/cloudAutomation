@@ -1,6 +1,6 @@
 # Cloud Automation
 
-Studies purposes only. Cloud automation using `NPM` and `Stackblitz` to run the enviroment
+Studies purposes only. Cloud automation using `Vitest` and `Stackblitz` to run the enviroment
 
 
 
