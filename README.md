@@ -1,6 +1,6 @@
-# meuProjetoNuvem
+# Cloud Automation
 
-This project was made with the only purpose of exploring PaaS such as Stackblitz.
+Studies purposes only. Cloud automation using `NPM` and `Stackblitz` to run the enviroment
 
 
 
